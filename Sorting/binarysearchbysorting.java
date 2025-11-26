@@ -18,6 +18,7 @@ public class binarysearchbysorting {
         }if(flag == 0){
         sortArray(arr);}
         BinarySeach(arr,key);
+        sc.close();
     }
     public static void sortArray(int arr[]){
         Arrays.sort(arr);
@@ -40,4 +41,5 @@ public class binarysearchbysorting {
         }
         System.out.println("Key element not found");
     }
+    
 }

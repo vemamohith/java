@@ -6,6 +6,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "demoa",
+      "request": "launch",
+      "mainClass": "Sorting.demo.demoa",
+      "projectName": "java_a7cf075c"
+    },
+    {
+      "type": "java",
+      "name": "encap",
+      "request": "launch",
+      "mainClass": "encap",
+      "projectName": "java_a7cf075c"
+    },
+    {
+      "type": "java",
+      "name": "pat",
+      "request": "launch",
+      "mainClass": "pat",
+      "projectName": "java_a7cf075c"
+    },
+    {
+      "type": "java",
       "name": "tdarray",
       "request": "launch",
       "mainClass": "Strings.arrays.tdarray",

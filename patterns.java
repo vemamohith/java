@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 public class patterns {
@@ -22,3 +23,17 @@ public class patterns {
         demo();
     }
 }
+=======
+//* 
+//* *
+//* * *
+//* * * *
+
+
+
+
+
+public class patterns {
+    
+}
+>>>>>>> 4ecfcb4dd95708059f7b96dba0304ec457a84060
